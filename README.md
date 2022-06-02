@@ -1,2 +1,1 @@
-# new.github.io
-New web3 demo site
+nothing at the README for now
